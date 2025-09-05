@@ -18,7 +18,7 @@ Each project is simple, interactive, and focused on practicing core concepts.
 Clone the repository and open any project folder in your browser:
 ```bash
 git clone https://github.com/<your-username>/<repo-name>.git
-cd Day-01-Todo-List
+cd Counter App
 open index.html 
 ```
 
