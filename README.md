@@ -7,7 +7,7 @@ Each project is simple, interactive, and focused on practicing core concepts.
 - Day 1 – Counter App – Increase/decrease/reset a number.
 
 ## Live Demo 
-1. [Counter App](https://counter-app-aparajita.vercel.app/)
+1. <a href="https://counter-app-aparajita.vercel.app/" target="_blank">Counter App</a>
 
 ## Tech Stack
 - HTML5  
@@ -34,7 +34,7 @@ By the end of 30 projects, I aim to:
 
 --- 
 <p align="center">
-  <a href="https://aparajitaa.vercel.app/">Aparajita Singh</a>
+  <a href="https://aparajitaa.vercel.app/" target="_blank">Aparajita Singh</a>
     | 
     <a href="https://github.com/Aparajita024">@Aparajita024</a>
 </p> 
