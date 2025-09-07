@@ -6,10 +6,12 @@ Each project is simple, interactive, and focused on practicing core concepts.
 ## Progress Tracker
 - Day 1 – Counter App – Increase/decrease/reset a number.
 - Day 2 - Digital Clock – Live updating clock.
+- Day 3 - Stopwatch - Start, stop, reset timer.
 
 ## Live Demo 
 1. <a href="https://counter-app-aparajita.vercel.app/" target="_blank">Counter App</a>
 2. <a href="https://digital-clock-aparajita.vercel.app/" target="_blank">Digital Clock</a>
+3. <a href="https://stopwatch-aparajita.vercel.app/" target="_blank">Stopwatch</a>
 
 ## Tech Stack
 - HTML5  
